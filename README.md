@@ -1,7 +1,7 @@
-# crypto-pay-api
+# cryptopay-python-sdk
 
-[![PyPI](https://img.shields.io/pypi/v/crypto-pay-api)](https://pypi.org/project/crypto-pay-api/)
-[![Python](https://img.shields.io/pypi/pyversions/crypto-pay-api)](https://pypi.org/project/crypto-pay-api/)
+[![PyPI](https://img.shields.io/pypi/v/crypto-pay-api)](https://pypi.org/project/cryptopay-python-sdk/)
+[![Python](https://img.shields.io/pypi/pyversions/crypto-pay-api)](https://pypi.org/project/cryptopay-python-sdk/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Sync + async Python client for the [Telegram Crypto Pay API](https://help.send.tg/en/articles/10279948-crypto-pay-api).
@@ -9,7 +9,7 @@ Sync + async Python client for the [Telegram Crypto Pay API](https://help.send.t
 ## Install
 
 ```bash
-pip install crypto-pay-api
+pip install cryptopay-python-sdk
 ```
 
 ## Quick start
