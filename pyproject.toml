@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "cryptopay-python-sdk"
-version = "0.1.1"
+version = "0.1.2"
 description = "Sync + Async Python client for Telegram Crypto Pay API (Crypto Bot)"
 readme = "README.md"
 requires-python = ">=3.9"
